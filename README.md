@@ -10,7 +10,7 @@ git clone https://github.com/ANDSANTOS4546/criacao_de_planilhas.git
 
 # 2° Abra o diretorio no seu terminal
 ```
-Power Shellcd -> cd .\criacao_de_planilhas
+Power Shell -> cd .\criacao_de_planilhas
 ```
 
 # 3° Inicie seu ambiente virtual
