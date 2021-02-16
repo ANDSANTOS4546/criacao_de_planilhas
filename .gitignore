@@ -1,2 +1,5 @@
 # Ambiente Virtual
 /venv
+
+# Excel file
+*.xlsx
