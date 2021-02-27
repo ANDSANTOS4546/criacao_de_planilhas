@@ -43,7 +43,9 @@ print(wb.sheetnames)
 # Escolher pagina para manipular
 selecionar_pagina()
 
-# Insrerir dados na página escolhida
+# Insrerir coluna
+
+
 
 
 # Salvar arquivo
